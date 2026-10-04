@@ -8,12 +8,22 @@ This project quantifies and visualizes how a 4–1 deficit for Yiheng Wang turne
 
 ## Highlights
 
-### Solve-Time Distributions
+### Match Overview & Race Matrix
+![Race Matrix](outputs/figures/race_matrix.png)
 
+### Raw Solve Times Timeline
+![Solve Times](outputs/figures/solve_times.png)
+
+### Head-to-Head Margins
+![Margin by Race](outputs/figures/margin_by_race.png)
+
+### Rolling Median Margin
+![Rolling Median Margin](outputs/figures/rolling_median_margin.png)
+
+### Solve-Time Distributions
 ![Solve-Time Distributions](outputs/figures/solve_distributions.png)
 
 ### Comeback Performance Breakdown
-
 ![Comeback Analysis](outputs/figures/comeback_analysis.png)
 
 ## Directory Structure
